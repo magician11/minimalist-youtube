@@ -1,0 +1,15 @@
+.search-bar {
+  margin: 3rem 0;
+}
+
+.panel {
+  margin-top: 3rem;
+}
+
+.video-list-item {
+  cursor: pointer;
+}
+
+.video-list-item:hover {
+  background-color: #eee;
+}
